@@ -1,0 +1,36 @@
+{
+  "name": "Novenário Mariano — CM Imaculada Conceição e São José",
+  "short_name": "Novenário",
+  "description": "Novenário Mariano da Congregação Mariana Imaculada Conceição e São José (Capela S. José de Chambéry, Curitiba/PR). Funciona 100% offline.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0E2258",
+  "theme_color": "#14327A",
+  "categories": [
+    "lifestyle",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

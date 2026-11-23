@@ -1,0 +1,920 @@
+{
+  "meta": {
+    "title": "Novenário Mariano",
+    "subtitle": "Congregação Mariana Imaculada Conceição e São José",
+    "chapel": "Capela S. José de Chambéry, Curitiba/PR",
+    "year": 2026,
+    "organizer": "Thiago Plaça Teixeira",
+    "motto": "Laus Deo Virginique Matri",
+    "references": [
+      "Manual dos Congregados Marianos: 3ª edição organizada pela Confederação Nacional das Congregações Marianas do Brasil agregadas à Prima Primária do Colégio Romano. Rio de Janeiro: Confederação Nacional das Congregações Marianas, 1949.",
+      "Manual dos Congregados: nova edição da Confederação Nacional das Congregações Marianas. Rio de Janeiro: Estrela do Mar, 1957."
+    ],
+    "cover_credit": "Composição artística com a Inmaculada Concepción, Bartolomé Esteban Murillo (c. 1670), acervo Museo Soumaya, Cidade do México. Fotografia: Enrique Gomez Tamez - ID 19493212, via Dreamstime.com."
+  },
+  "novenas": [
+    {
+      "id": "purificacao",
+      "number": 1,
+      "title": "Novena da Purificação",
+      "short_title": "Purificação",
+      "start_label": "Começa em 24 de janeiro",
+      "feast_label": "Festa: 2 de fevereiro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 1,
+          "day": 24,
+          "days": 9,
+          "label": "Novena (24 jan – 1 fev)"
+        }
+      ],
+      "image": "assets/images/novena_01_purificacao.jpg",
+      "artwork_caption": "Purificação da Virgem (Guercino, 1654)",
+      "subtitle": "",
+      "source_note": "Pág. 5–6 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Ó Maria santíssima, puríssimo espelho de todas as virtudes, vós que, sendo a mais pura de todas as virgens, quisestes, apenas terminados os quarenta dias depois do vosso parto, apresentar-vos, segundo a lei, no templo para ser purificada: fazei, Senhora, que à vossa imitação também nós conservemos nosso coração puro de toda a culpa e mereçamos assim ser apresentados no templo da glória.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Ó Virgem obedientíssima, que, apresentando-vos no templo, quisestes oferecer o costumado sacrifício, segundo o uso de todas as outras mulheres: fazei, Senhora, que também nós, a vosso exemplo, saibamos oferecer a Deus o sacrifício de nós mesmos pela contínua prática das virtudes.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Ó resignadíssima Virgem, que, prevendo a dolorosa paixão de vosso Filho, sentistes vossa alma traspassada de dor, e conhecendo a aflição de vosso Esposo José por vossas angústias, com santas palavras o consolastes: traspassai a nossa alma com uma verdadeira dor de tantos pecados, pela qual possamos ter a consolação de participar da vossa glória no paraíso.",
+          "rubric": "Ave Maria."
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "Revelou o Espírito Santo a Simeão:",
+            "r": "Que não veria a morte, sem ter visto o Cristo do Senhor."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Respónsum accépit Simeon a Spíritu Sancto:",
+            "r": "Non visúrum se mortem, nisi vidéret Christum Dómini."
+          }
+        ],
+        "oremus_pt": "Onipotente e eterno Deus, imploramos da vossa majestade que assim como o vosso unigênito Filho foi apresentado no templo, depois de ter tomado a substância da nossa carne, do mesmo modo façais que sejamos levados à vossa presença com as almas puras de todo o pecado. Pelo mesmo Cristo Senhor nosso. R. Amém.",
+        "oremus_la": "Omnípotens sempitérne Deus, majestátem tuam súpplices exorámus, ut sicut Unigénitus Fílius tuus hodiérna die cum nostræ carnis substántia in templo est præsentátus, ita nos fácias purificátis tibi méntibus præsentári. Per eúndem Christum Dóminum nostrum. R. Amen."
+      }
+    },
+    {
+      "id": "lourdes",
+      "number": 2,
+      "title": "Novena de Nossa Senhora de Lourdes",
+      "short_title": "N. Sra. de Lourdes",
+      "start_label": "Começa no dia 2 de fevereiro",
+      "feast_label": "Festa: 11 de fevereiro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 2,
+          "day": 2,
+          "days": 9,
+          "label": "Novena (2 – 10 fev)"
+        }
+      ],
+      "image": "assets/images/novena_02_lourdes.jpg",
+      "artwork_caption": "Nossa Senhora de Lourdes, imagem devocional",
+      "subtitle": "",
+      "source_note": "Pág. 7–8 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Ó Virgem puríssima, que vos dignastes aparecer toda resplandecente de luz, doçura e bondade, a uma inocente menina, que vos contemplava em êxtase: alcançai-nos do inocentíssimo Jesus, vosso Filho, que conservemos até à morte a inocência batismal, ou a reparemos pela penitência, se tivermos a desdita de perdê-la pela culpa."
+        },
+        {
+          "type": "rubric",
+          "text": "Três vezes a Ave Maria com a jaculatória:"
+        },
+        {
+          "type": "ejaculation",
+          "lines": [
+            "Nossa Senhora de Lourdes,",
+            "Rogai por nós."
+          ]
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "Deus onipotente revestiu-me de valor:",
+            "r": "E fez imaculado o meu caminho."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Deus omnípotens præcínxit me virtúte:",
+            "r": "Et pósuit immaculátam viam meam."
+          }
+        ],
+        "oremus_pt": "Ó Deus, que pela Conceição Imaculada da Virgem Maria preparastes a vosso Filho digna habitação: humildemente vos suplicamos, que, celebrando a aparição da mesma Virgem, alcancemos a saúde da alma e do corpo. Pelo mesmo Cristo, Senhor nosso. R. Amém.",
+        "oremus_la": "Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: súpplices a te quæsumus; ut, ejúsdem Vírginis apparitiónem celebrántes, salútem mentis et córporis consequámur. Per eúmdem Christum Dóminum nostrum. R. Amen."
+      }
+    },
+    {
+      "id": "anunciacao",
+      "number": 3,
+      "title": "Novena da Anunciação",
+      "short_title": "Anunciação",
+      "start_label": "Começa em 16 de março",
+      "feast_label": "Festa: 25 de março",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 3,
+          "day": 16,
+          "days": 9,
+          "label": "Novena (16 – 24 mar)"
+        }
+      ],
+      "image": "assets/images/novena_03_anunciacao.jpg",
+      "artwork_caption": "Anunciação (Murillo, 1665)",
+      "subtitle": "",
+      "source_note": "Pág. 9–10 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Ó Maria, que fostes escolhida por Deus entre todas as mulheres para serdes a Mãe do Redentor: alcançai-me a graça de pertencer ao número dos escolhidos, que hão de gozar no céu dos frutos da Redenção.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Ó Maria, que, sendo escolhida para Mãe de Deus, preferistes a esta excelsa dignidade a vossa virgindade, e só quando o Anjo vos assegurou que com ser Mãe não deixareis de ser Virgem, anuístes à sua proposta: concedei-me um amor tão grande à pureza, que por nenhum bem deste mundo eu consinta em vir a perdê-la.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Ó Maria, que, sendo escolhida para Mãe de Deus, vos oferecestes para ser a sua escrava; fazei que eu me tenha sempre na conta de um servo de Deus, cumprindo com exatidão a sua santa lei.",
+          "rubric": "Ave Maria."
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "O Verbo divino encarnou.",
+            "r": "E habitou entre nós."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Verbum caro factum est:",
+            "r": "Et habitávit in nobis."
+          }
+        ],
+        "oremus_pt": "Infundi, Senhor, como vos pedimos, a vossa graça em nossas almas; para que nós, que, pela anunciação do Anjo, conhecemos a Encarnação de Cristo vosso Filho, pela sua Paixão e morte de Cruz sejamos conduzidos à glória da ressurreição. Pelo mesmo Cristo, Senhor nosso. R. Amém.",
+        "oremus_la": "Grátiam tuam, quæsumus, Dómine, méntibus nostris infúnde: ut, qui, Ángelo nuntiánte, Christi Fílii tui Incarnatiónem cognóvimus, per Passiónem eius et Crucem ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nostrum. R. Amen."
+      }
+    },
+    {
+      "id": "bom-conselho",
+      "number": 4,
+      "title": "Novena de Nossa Senhora do Bom Conselho",
+      "short_title": "Bom Conselho",
+      "start_label": "Começa em 17 de abril",
+      "feast_label": "Festa: 26 de abril",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 4,
+          "day": 17,
+          "days": 9,
+          "label": "Novena (17 – 25 abr)"
+        }
+      ],
+      "image": "assets/images/novena_04_bom_conselho.jpg",
+      "artwork_caption": "Santuário da Mãe do Bom Conselho (Genazzano, Itália)",
+      "subtitle": "",
+      "source_note": "Pág. 11–12 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Ó Virgem gloriosíssima, escolhida pelo Conselho eterno para serdes Mãe do Verbo divino incarnado, tesoureira das graças divinas e advogada dos pecadores: eu, o mais indigno dos vossos servos, a vós recorro para que vos digneis ser minha guia e meu conselho neste vale de lágrimas. Alcançai-me pelo preciosíssimo sangue de vosso divino Filho o perdão dos meus pecados, a salvação da minha alma, e os meios necessários para a conseguir. Alcançai para a Santa Igreja o triunfo sobre os seus inimigos e a dilatação do reino de Jesus Cristo em todo o mundo. Assim seja."
+        },
+        {
+          "type": "rubric",
+          "text": "Três vezes a Ave Maria."
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "Concedei-me que eu vos louve, Virgem sagrada.",
+            "r": "Dai-me valor contra os vossos inimigos."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Dignáre me laudáre te, Virgo sacráta.",
+            "r": "Da mihi virtútem contra hostes tuos."
+          }
+        ],
+        "oremus_pt": "Ó Deus, que por Mãe nos destes a Mãe de vosso amado Filho, e ilustrastes com maravilhosa aparição a formosa imagem dela: concedei-nos, vos suplicamos, que, seguindo-lhe sempre os conselhos, vivamos todos sempre segundo o vosso Coração e alcancemos a felicidade da celeste pátria. Pelo mesmo Cristo, Senhor nosso. R. Amém.",
+        "oremus_la": "Deus, qui Genitrícem dilécti Fílii tui Matrem nobis dedísti, ejúsque speciósam imáginem mira apparitióne clarificáre dignátus es: concéde, quæsumus; ut ejúsdem mónitis júgiter inhæréntes, secúndum Cor tuum vívere et ad cæléstem pátriam felíciter perveníre valeámus. Per eúmdem Christum Dóminum nostrum. R. Amen."
+      }
+    },
+    {
+      "id": "dores",
+      "number": 5,
+      "title": "Setenário e Novena de Nossa Senhora das Dores",
+      "short_title": "N. Sra. das Dores",
+      "start_label": "Setenário: sexta-feira antes do Domingo da Paixão • Novena: 6 de setembro",
+      "feast_label": "Sexta-feira das Dores (Quaresma) e 15 de setembro",
+      "occurrences": [
+        {
+          "type": "easter_offset",
+          "offset": -16,
+          "days": 7,
+          "label": "Setenário (Quaresma — 7 dias)"
+        },
+        {
+          "type": "fixed",
+          "month": 9,
+          "day": 6,
+          "days": 9,
+          "label": "Novena (6 – 14 set)"
+        }
+      ],
+      "image": "assets/images/novena_05_dores.jpg",
+      "artwork_caption": "Mater Dolorosa (Dolci, 1655)",
+      "subtitle": "Rezada duas vezes ao ano: como Setenário na Quaresma (7 dias) e como Novena em setembro (9 dias).",
+      "source_note": "Pág. 13–14 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Eu me compadeço de vós, ó Virgem dolorosa, por aquela aflição, que o vosso terno Coração sofreu na profecia do santo velho Simeão. Minha querida Mãe, por vosso Coração tão magoado, alcançai-me a virtude da humildade e o dom do santo temor de Deus.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Eu me compadeço de vós, ó Virgem dolorosa, por aquelas angústias, que o vosso sensibilíssimo Coração sofreu na fugida e permanência no Egito. Minha querida Mãe, por vosso angustiado Coração, alcançai-me a virtude da liberalidade, especialmente para com os pobres, e o dom da piedade.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Eu me compadeço de vós, ó Virgem dolorosa, por aquela agonia que o vosso solícito Coração sentiu na perda do vosso Jesus. Minha querida Mãe, por vosso Coração tão vivamente comovido, alcançai-me a virtude da castidade e o dom da ciência.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 4,
+          "text": "Eu me compadeço de vós, ó Virgem dolorosa, por aquela consternação, que o vosso materno Coração sentiu ao encontrardes o vosso Filho com a cruz às costas. Minha querida Mãe, pelo vosso amoroso Coração por tal modo atormentado, alcançai-me a virtude da paciência e o dom da fortaleza.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 5,
+          "text": "Eu me compadeço de vós, ó Virgem dolorosa, por aquele martírio, que o vosso generoso Coração padeceu ao assistirdes a Jesus agonizante. Minha querida Mãe, pelo vosso Coração a tal extremo martirizado, alcançai-me a virtude da temperança e o dom do conselho.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 6,
+          "text": "Eu me compadeço de vós, ó Virgem dolorosa, por aquela ferida, que o vosso piedoso Coração sofreu na lançada, que rasgou o lado do vosso Filho e abriu o seu amabilíssimo Coração. Minha querida Mãe, pelo vosso Coração de tal maneira traspassado, alcançai-me a virtude da caridade fraterna e o dom do entendimento.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 7,
+          "text": "Eu me compadeço de vós, Virgem dolorosa, por aquela amargura, que o vosso Coração amantíssimo sofreu na sepultura do vosso Jesus. Minha querida Mãe, pelo vosso santo Coração, excessivamente aflito, alcançai-me a virtude da diligência e o dom da sabedoria.",
+          "rubric": "Ave Maria."
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "Rogai por nós, Virgem dolorosíssima;",
+            "r": "Para que sejamos dignos das promessas de Cristo."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Ora pro nobis, Virgo dolorosíssima:",
+            "r": "Ut digni efficiámur promissiónibus Christi."
+          }
+        ],
+        "oremus_pt": "Interceda por nós ante a vossa clemência, Senhor Jesus Cristo, agora e na hora da nossa morte, a bem-aventurada Virgem Maria, vossa Mãe, cuja sacratíssima alma traspassou uma espada de dor na hora da vossa Paixão. Por vós mesmo, Jesus Cristo, Salvador do mundo, que viveis e reinais por todos os séculos dos séculos. R. Amém.",
+        "oremus_la": "Intervéniat pro nobis, Dómine Jesu Christe, nunc et in hora mortis nostræ apud tuam cleméntiam Beáta Virgo Maria, Mater tua, cujus sacratíssimam ánimam in hora tuæ passiónis dolóris gládius pertransívit. Per te Jesu Christe, Salvátor mundi, qui vivis et regnas in sæcula sæculórum. R. Amen."
+      }
+    },
+    {
+      "id": "rainha",
+      "number": 6,
+      "title": "Novena de Nossa Senhora, Rainha do Mundo",
+      "short_title": "Rainha do Mundo",
+      "start_label": "Começa no dia 22 de maio",
+      "feast_label": "Festa: 31 de maio",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 5,
+          "day": 22,
+          "days": 9,
+          "label": "Novena (22 – 30 mai)"
+        }
+      ],
+      "image": "assets/images/novena_06_rainha.jpg",
+      "artwork_caption": "Coroação da Virgem (Velásquez, 1635)",
+      "subtitle": "Oração composta por SS. Pio XII.",
+      "source_note": "Pág. 15–16 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Do fundo deste vale de lágrimas, através do qual se debate dolorosamente a humanidade sofredora; do fundo deste mar interminavelmente batido pelas ondas da paixão: erguemos nossos olhos para Vós, ó amantíssima Mãe Maria, a fim de sermos confortados pela constelação de vossa glória e para saudar-vos como Rainha e Senhora do Céu, Rainha e Senhora da Humanidade. Com legítimo orgulho filial desejamos exaltar vosso reinado e reconhecê-lo como devido à excelência soberana de todo o vosso ser, ó Doce Mãe d'Aquele que é Rei pelo direito de herança e pelo direito de conquista. Reinai, ó Mãe e Senhora, mostrando-nos o caminho da santidade e guiando-nos e assistindo-nos para que dele não nos desviemos."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Na altura do céu exercei vosso primado sobre os coros de anjos que vos aclamam como sua Soberana e sobre as legiões de santos que se deliciam em contemplar vossa ofuscante beleza. Assim também reinai sobre toda a humanidade, acima de tudo abrindo o caminho da fé para aqueles que ainda não conhecem o vosso Divino Filho. Reinai sobre a Igreja, que reconhece e exalta vosso gentil domínio e a Vós recorre como seguro refúgio entre as calamidades de nossos dias."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Reinai especialmente sobre a parte da Igreja perseguida e oprimida. Dai-lhe forças para suportar a adversidade, constância para nunca ceder sob a compulsão injusta, luz para não cair nas armadilhas do inimigo, firmeza para resistir ao ataque aberto e, a toda hora, confiança inabalável em vosso reino."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 4,
+          "text": "Reinai sobre a mente dos homens, a fim de que procurem apenas o que é verdade; sobre suas vontades, para que sigam somente o que é bom; sobre seus corações, a fim de que não amem senão aquilo que Vós amais. Reinai sobre os indivíduos e sobre as famílias, bem como sobre as sociedades e as nações, sobre as assembleias dos poderosos conselhos dos sábios, bem como sobre as simples aspirações dos humildes."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 5,
+          "text": "Reinai nas ruas e nas praças, nas cidades e nas aldeias, nos vales e nas montanhas, no ar, na terra, no mar e ouvi a piedosa súplica de todos os que reconhecem que o vosso reino é um reino de bondade, no qual todos encontrarão conforto para o infortúnio, cura para as enfermidades e no qual um gesto de vossa mão faz com que a vida surja de dentro da morte."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 6,
+          "text": "Fazei com que todos nós que agora, em todos os recantos do mundo, vos aclamamos e saudamos como Rainha e Senhora, possamos um dia no Céu gozar integralmente o vosso reino, na visão de vosso Divino Filho, que com o Pai e o Espírito Santo, vive para todo o sempre. Amém."
+        }
+      ],
+      "closing": {
+        "bilingual": false,
+        "versicles_pt": [
+          {
+            "v": "Rogai por nós Rainha do Mundo.",
+            "r": "Para que sejamos dignos das promessas de Cristo."
+          }
+        ],
+        "oremus_pt": "Concedei-nos, Senhor, nós vo-lo pedimos, que nós que celebramos a solenidade da Santíssima Virgem Nossa Rainha, defendidos por seu amparo mereçamos conseguir a paz nesta vida e a glória no futuro. Por Jesus Cristo Nosso Senhor. Amém."
+      }
+    },
+    {
+      "id": "visitacao",
+      "number": 7,
+      "title": "Novena da Visitação",
+      "short_title": "Visitação",
+      "start_label": "Começa no dia 23 de junho",
+      "feast_label": "Festa: 2 de julho",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 6,
+          "day": 23,
+          "days": 9,
+          "label": "Novena (23 jun – 1 jul)"
+        }
+      ],
+      "image": "assets/images/novena_07_visitacao.jpg",
+      "artwork_caption": "A Visitação (Ezquerra, 1737)",
+      "subtitle": "",
+      "source_note": "Pág. 17–18 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Ó Virgem Maria, que, movida do Espírito Santo, vos pusestes a caminho para visitar vossa prima Sta. Isabel, a fim de que a presença do Verbo incarnado livrasse o Batista do pecado original: alcançai-me do mesmo vosso Filho perdão de todos os meus pecados, e um tal horror a eles, que nunca torne a cometê-los para o futuro.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Ó Virgem Maria, que na vossa jornada nos ensinastes o recolhimento, a modéstia e a paciência, guiai-me pelo caminho da virtude até à glória do paraíso.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Ó Virgem Maria, que enchestes de tantas graças a casa de vossa prima: enchei o meu coração de todas as graças necessárias para receber vosso Filho sacramentado com menos indignidade.",
+          "rubric": "Ave Maria."
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "Bendita sois vós entre as mulheres:",
+            "r": "E bendito é o fruto do vosso ventre."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Benedícta tu in muliéribus.",
+            "r": "Et benedíctus fructus ventris tui."
+          }
+        ],
+        "oremus_pt": "Suplicamo-vos, Senhor, que concedais a vossos servos o dom da vossa divina graça, para que, como no parto da Virgem bem-aventurada receberam o princípio da sua salvação, assim a festa da sua visitação lhes confira o aumento da paz. Por Cristo Nosso Senhor. R. Amém.",
+        "oremus_la": "Fámulis tuis, quæsumus, Dómine, cœléstis grátiæ munus impertíre: ut, quibus beátæ Vírginis partus éxstitit salútis exórdium; Visitatiónis ejus votíva solémnitas, pacis tríbuat increméntum. Per Christum Dóminum nostrum. R. Amen."
+      }
+    },
+    {
+      "id": "carmo",
+      "number": 8,
+      "title": "Novena de Nossa Senhora do Carmo",
+      "short_title": "N. Sra. do Carmo",
+      "start_label": "Começa no dia 7 de julho",
+      "feast_label": "Festa: 16 de julho",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 7,
+          "day": 7,
+          "days": 9,
+          "label": "Novena (7 – 15 jul)"
+        }
+      ],
+      "image": "assets/images/novena_08_carmo.jpg",
+      "artwork_caption": "Nossa Senhora do Monte Carmelo (Novelli, 1645)",
+      "subtitle": "",
+      "source_note": "Pág. 19–20 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Ó Virgem bendita, cheia de graça, Rainha dos santos, ó quanto me é grato de vos venerar sob o título de Nossa Senhora do Carmo. Ele me reconduz aos tempos proféticos de Elias, quando vós fostes, sobre o Carmelo, figurada naquela nuvenzinha que depois, dilatando-se, se derramou numa chuva benéfica, símbolo das graças santificadoras que de vós procedem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Desde os tempos apostólicos fostes vós honrada com este título. E agora me alegra o pensamento que nós nos unimos a esses vossos primeiros devotos e com eles vos saudamos, dizendo-vos: Ó decoro do Carmelo, glória do Líbano, lírio puríssimo, rosa mística no jardim florescente da Igreja."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mas, ó Virgem das virgens, lembrai-vos de mim miserável, e mostrai que sois minha Mãe. Derramai em mim sempre mais viva essa luz da fé que vos fez bem-aventurada; inflamai-me naquele amor celestial com que amastes vosso Filho Jesus Cristo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Obtende-me a força nas tentações e nas tribulações que tantas vezes me assaltam. E quando, conforme a vontade de Deus, terminar a jornada de minha peregrinação terrena, fazei que se me conceda pelos méritos de Cristo e pela vossa intercessão, a glória do paraíso. Amém."
+        }
+      ],
+      "closing": {
+        "bilingual": false,
+        "versicles_pt": [
+          {
+            "v": "Rogai por nós Nossa Senhora do Carmo.",
+            "r": "Para que sejamos dignos das promessas de Cristo."
+          }
+        ],
+        "oremus_pt": "Ó Deus que ornastes a ordem do Carmo com título especial da Santíssima sempre Virgem e Mãe vossa, Maria, concedei-nos propício, que celebrando hoje com solene homenagem a sua Comemoração, defendidos por seu amparo cheguemos às alegrias eternas. Vós que viveis e reinais Deus por todos os séculos. Amém."
+      }
+    },
+    {
+      "id": "assuncao",
+      "number": 9,
+      "title": "Novena da Assunção de Nossa Senhora",
+      "short_title": "Assunção",
+      "start_label": "Começa no dia 6 de agosto",
+      "feast_label": "Festa: 15 de agosto",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 8,
+          "day": 6,
+          "days": 9,
+          "label": "Novena (6 – 14 ago)"
+        }
+      ],
+      "image": "assets/images/novena_09_assuncao.jpg",
+      "artwork_caption": "Assunção da Virgem (Murillo, 1680)",
+      "subtitle": "Oração composta por SS. Pio XII.",
+      "source_note": "Pág. 21–22 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "lead",
+          "text": "Ó Virgem Imaculada, Mãe de Deus e Mãe dos homens:"
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Cremos, com todo o fervor de nossa fé, em vossa Assunção triunfal em corpo e alma ao céu, onde sois aclamada Rainha por todos os coros dos Anjos e todas as legiões de Santos, e a eles nos unimos para louvar e bendizer o Senhor, que vos exaltou sobre todas as demais criaturas, e para vos oferecer as expansões da nossa devoção e do nosso amor."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Sabemos que o vosso olhar, que maternalmente acariciava a humilde e sofredora humanidade de Jesus na terra, se sacia no céu na contemplação da gloriosa humanidade da Sabedoria incriada, e que o gozo da vossa alma, ao contemplar face a face a Trindade adorável, vos faz palpitar o coração de beatífica ternura. E nós, pobres pecadores, a quem o corpo dificulta o voo da alma, vos suplicamos que purifiqueis os nossos sentidos, a fim de que aprendamos, já nesta terra, a deleitar-nos em Deus, somente em Deus, no encanto das criaturas."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Temos a certeza de que os vossos olhos misericordiosos se volverão sobre as nossas misérias e angústias, sobre as nossas lutas e fraquezas; que os vossos lábios sorrirão às nossas alegrias e às nossas vitórias; que ouvireis Jesus dizer-vos de cada um de nós, como já o disse de seu discípulo amado: Eis aí teu filho. E nós que vos chamamos nossa Mãe, vos tomamos, como João, por nosso guia, força e consolo em nossa vida mortal."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 4,
+          "text": "Temos a vivificante certeza de que os vossos olhos, que derramaram lágrimas sobre a terra irrigada pelo sangue de Jesus, se volverão ainda sobre este mundo, presa das guerras, perseguições e opressão dos justos e fracos. E nós, em meio às trevas deste vale de lágrimas, esperamos da vossa luz celestial e da vossa doce piedade consolo para as aflições dos nossos corações, para as provações da Igreja e da nossa Pátria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 5,
+          "text": "Cremos, finalmente, que na glória, onde reinais, revestida do sol e coroada de estrelas, sois, depois de Jesus, a alegria e o júbilo de todos os Anjos e de todos os Santos. E nós, desta terra onde somos peregrinos, confortados pela fé numa futura ressurreição, volveremos nossos olhos para vós, nossa vida, nossa doçura e nossa esperança. Atraí-nos com a suavidade da vossa voz, para mostrar-nos um dia, depois do nosso exílio, Jesus, bendito fruto do vosso ventre, ó clemente, ó piedosa, ó doce Virgem Maria."
+        }
+      ],
+      "closing": {
+        "bilingual": false,
+        "versicles_pt": [
+          {
+            "v": "Rogai por nós Rainha assunta ao céu.",
+            "r": "Para que sejamos dignos das promessas de Cristo."
+          }
+        ],
+        "oremus_pt": "Onipotente e eterno Deus que elevastes à glória do céu em corpo e alma, a Imaculada Virgem Maria; concedei-nos, vo-lo pedimos, que voltados sempre para as coisas do alto, mereçamos ser participantes de sua mesma glória. Por Jesus Cristo Nosso Senhor. Amém."
+      }
+    },
+    {
+      "id": "natividade",
+      "number": 10,
+      "title": "Novena da Natividade de Nossa Senhora",
+      "short_title": "Natividade",
+      "start_label": "Começa em 30 de agosto",
+      "feast_label": "Festa: 8 de setembro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 8,
+          "day": 30,
+          "days": 9,
+          "label": "Novena (30 ago – 7 set)"
+        }
+      ],
+      "image": "assets/images/novena_10_natividade.jpg",
+      "artwork_caption": "Natividade de Maria Virgem (Pietro Da Cortona, 1643)",
+      "subtitle": "",
+      "source_note": "Pág. 23–24 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Ó graciosíssima Menina, que em vosso feliz nascimento consolastes o mundo, alegrastes o Céu, aterrastes o inferno, trouxestes aos caídos alívio, aos enfermos saúde, a todos alegria: nós vos suplicamos com o mais fervoroso afeto que renasçais espiritualmente por vosso amor em nossas almas. Renovai o nosso espírito para servir-vos, acendei o nosso coração para amar-vos e fazei florescer em nós aquelas virtudes, com que possamos cada vez mais agradar a vossos benigníssimos olhos. Ah! Maria! Sede para nós Maria, fazendo-nos experimentar os salutares efeitos do vosso suavíssimo nome. Seja-nos a invocação deste nome conforto nas amarguras, esperanças nos perigos, escudo nas tentações, salvação na morte. Assim seja."
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "O vosso nascimento, ó Virgem Mãe de Deus:",
+            "r": "Anunciou alegria a todo o mundo."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Natívitas tua, Dei Génetrix Virgo:",
+            "r": "Gáudium annuntiávit univérso mundo."
+          }
+        ],
+        "oremus_pt": "Concedei, Senhor, aos vossos servos o dom da graça celestial, para que, sendo para eles o parto da Virgem o princípio da salvação, a solenidade votiva do seu nascimento lhes traga o aumento da verdadeira paz. Por Cristo, Senhor nosso. R. Amém.",
+        "oremus_la": "Fámulis tuis, quæsumus, Dómine, cæléstis grátiæ munus impertíre: ut, quibus beátæ Vírginis partus éxstitit salútis exórdium; nativitátis ejus votíva solémnitas, pacis tríbuat increméntum. Per Christum Dóminum nostrum. R. Amen."
+      }
+    },
+    {
+      "id": "medianeira",
+      "number": 11,
+      "title": "Novena de N. Sra. Medianeira de Todas as Graças",
+      "short_title": "Medianeira das Graças",
+      "start_label": "Começa no dia 22 de setembro",
+      "feast_label": "Festa: 1º de outubro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 9,
+          "day": 22,
+          "days": 9,
+          "label": "Novena (22 – 30 set)"
+        }
+      ],
+      "image": "assets/images/novena_11_medianeira.jpg",
+      "artwork_caption": "Nossa Senhora Medianeira de Todas as Graças, imagem devocional",
+      "subtitle": "",
+      "source_note": "Pág. 25–26 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Ó Senhora Medianeira de Todas as Graças, estendei sobre nós vosso manto. Sede nosso abrigo e escudo, guardando-nos contra os inimigos do corpo e da alma. Vosso manto, mais formoso que o céu azul que admiramos, abrange toda a Cristandade, toda a amplitude da terra, a todos serve de refúgio seguro e meigo descanso. Quando todos os inimigos se unem e, furiosamente, nos atacam, sede a nossa força e não haverá perigo de sucumbirmos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Querida Mãe, Senhora Medianeira de Todas as Graças, lançai vosso olhar misericordioso sobre nós, porque vossos somos e vossos para sempre queremos ser. Protegei-nos, sim, como Mãe benigna e bondosa que sois e nada teremos a temer. Com vossa amorosa assistência atravessaremos incólumes as sendas tortuosas desta vida e chegaremos, sãos e salvos, à eterna bem-aventurança."
+        },
+        {
+          "type": "ejaculation",
+          "lines": [
+            "Nossa Senhora Medianeira de Todas as Graças, rogai por nós!"
+          ]
+        }
+      ],
+      "closing": {
+        "bilingual": false,
+        "versicles_pt": [
+          {
+            "v": "Rogai por nós, ó Maria Medianeira de Todas as Graças.",
+            "r": "Para que sejamos dignos das promessas de Cristo."
+          }
+        ],
+        "oremus_pt": "Senhor Jesus Cristo, nosso Mediador junto do Pai, que vos dignastes constituir a Santíssima Virgem vossa Mãe, nossa Mãe também e Medianeira junto a Vós; concedei que todos os que a Vós recorrem para implorar os vossos benefícios, se alegrem de ter alcançado tudo por intercessão dela. Vós que viveis e reinais, Deus por todos os séculos dos séculos. Amém."
+      }
+    },
+    {
+      "id": "aparecida",
+      "number": 12,
+      "title": "Novena de Nossa Senhora Aparecida",
+      "short_title": "N. Sra. Aparecida",
+      "start_label": "Começa em 3 de outubro (pág. 4) / 4 de outubro (pág. 28)",
+      "feast_label": "Festa: 12 de outubro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 10,
+          "day": 3,
+          "days": 9,
+          "label": "Novena (3 – 11 out)"
+        }
+      ],
+      "image": "assets/images/novena_12_aparecida.jpg",
+      "artwork_caption": "Nossa Senhora Aparecida, imagem devocional",
+      "subtitle": "Nota: no Calendário Geral (pág. 4) indica-se início em 3 de outubro; no título da pág. 28 indica-se 4 de outubro.",
+      "source_note": "Pág. 27–28 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Ó Virgem Maria, abençoada sois Vós pelo Senhor Deus Altíssimo entre todas as mulheres da terra. Vós sois a glória de Jerusalém. Vós a alegria de Israel, Vós a honra do nosso povo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Salve ó Virgem, honra de nossa terra, a quem rendemos um culto de piedade e veneração, a quem chamamos com o belo nome de Aparecida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quem poderá contar, ó doce Mãe, quantas graças, durante tantos anos Vós dispensastes ao povo brasileiro, compadecida de nossos males?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quisemos cingir Vossa cabeça sagrada com uma coroa de ouro, que vos é devida por tantos títulos: continuai a dobrar-vos benignamente às nossas preces."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando erguemos ao céu nossas mãos suplicantes, ouvi clemente os nossos rogos, ó Virgem: conservai nossas almas afastadas da culpa e por fim conduzi-nos ao céu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Salvação, honra e poder Àquele que, uno e trino, nos fulgores de seu trono celeste, governa e rege todo o universo. Amém."
+        }
+      ],
+      "closing": {
+        "bilingual": false,
+        "versicles_pt": [
+          {
+            "v": "A Vossa Imaculada Conceição, ó Virgem Mãe de Deus.",
+            "r": "Anunciou a alegria ao mundo todo."
+          }
+        ],
+        "oremus_pt": "Ó Deus, que por intermédio da Mãe Imaculada de Vosso Filho multiplicastes os dons de Vossa graça em favor de nós, vossos servos; concedei-nos propício que celebrando na terra os louvores da mesma Virgem, pelas suas maternas preces mereçamos alcançar o prêmio eterno do céu. Pelo mesmo Nosso Senhor Jesus Cristo. Amém."
+      }
+    },
+    {
+      "id": "apresentacao",
+      "number": 13,
+      "title": "Novena da Apresentação de Nossa Senhora",
+      "short_title": "Apresentação",
+      "start_label": "Começa no dia 12 de novembro",
+      "feast_label": "Festa: 21 de novembro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 11,
+          "day": 12,
+          "days": 9,
+          "label": "Novena (12 – 20 nov)"
+        }
+      ],
+      "image": "assets/images/novena_13_apresentacao.jpg",
+      "artwork_caption": "Apresentação de Maria no Templo (Giordano Luca, 1672)",
+      "subtitle": "",
+      "source_note": "Pág. 29–30 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Seja bendita, ó Maria, a prontidão de ânimo, com que tão pequenina vos apresentastes no templo. Suplico-vos, Virgem Santíssima, me alcanceis de vosso Filho a graça de servi-lo sempre até à morte.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Seja bendito, ó Maria, o fervor de espírito com que soubestes servir e dar gosto a Deus. Suplico-vos, Virgem Santíssima, me alcanceis de vosso Filho a graça de me dar com toda a alma ao seu serviço.",
+          "rubric": "Ave Maria."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Seja bendita, ó Maria, a plenitude de perfeição com que tão cedo vos fizestes modelo completo de santidade. Suplico-vos, Virgem Santíssima, me alcanceis de vosso Filho a graça de aborrecer sempre a culpa e amar de todo o coração a virtude.",
+          "rubric": "Ave Maria."
+        }
+      ],
+      "closing": {
+        "bilingual": true,
+        "versicles_pt": [
+          {
+            "v": "Concedei-me que vos louve, Virgem sagrada.",
+            "r": "Dai-me valor contra os vossos inimigos."
+          }
+        ],
+        "versicles_la": [
+          {
+            "v": "Dignáre me laudáre te, Virgo sacráta:",
+            "r": "Da mihi virtútem contra hostes tuos."
+          }
+        ],
+        "oremus_pt": "Ó Deus, que quisestes se apresentasse neste dia no templo a bem-aventurada sempre Virgem Maria, habitáculo do Espírito Santo: concedei-nos que por sua intercessão mereçamos ser apresentados no templo da vossa glória. Por Cristo, Nosso Senhor. R. Amém.",
+        "oremus_la": "Deus, qui beátam Maríam semper Vírginem Spíritus Sancti habitáculum hodiérna die in templo præsentári voluísti: præsta, quæsumus; ut ejus intercessióne in templo glóriæ tuæ præsentári mereámur. Per Christum Dóminum nostrum. R. Amen."
+      }
+    },
+    {
+      "id": "imaculada",
+      "number": 14,
+      "title": "Novena da Imaculada Conceição",
+      "short_title": "Imaculada Conceição",
+      "start_label": "Começa no dia 29 de novembro",
+      "feast_label": "Solenidade: 8 de dezembro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 11,
+          "day": 29,
+          "days": 9,
+          "label": "Novena (29 nov – 7 dez)"
+        }
+      ],
+      "image": "assets/images/novena_14_imaculada.jpg",
+      "artwork_caption": "Imaculada Conceição (Murillo, 1670)",
+      "subtitle": "Oração composta por SS. Pio XII para o Ano Mariano (1954).",
+      "source_note": "Pág. 31–32 do Novenário Mariano",
+      "complementary": false,
+      "sections": [
+        {
+          "type": "numbered_prayer",
+          "num": 1,
+          "text": "Ó Maria, Imaculada Mãe de Jesus e Mãe nossa, atraídos pelo fulgor da vossa celestial beleza, e movidos pelas angústias do mundo, lançamo-nos nos vossos braços, com a certeza de encontrar no vosso Coração amantíssimo a satisfação dos nossos ardentes desejos, e o porto seguro nas tempestades que de toda parte nos assaltam."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 2,
+          "text": "Embora oprimidos pelas nossas culpas, e sucumbindo sob o peso de infinitas misérias, admiramos e cantamos a riqueza incomparável dos excelsos dons com que Deus vos cumulou, acima de toda simples criatura, desde o primeiro instante da vossa conceição até ao dia em que, elevada ao céu, vos coroou Rainha do universo."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 3,
+          "text": "Ó Fonte cristalina de fé, banhai as nossas almas com as verdades eternas! Ó Lírio perfumado de toda a santidade, prendei os nossos corações com o vosso celeste perfume! Ó Triunfadora do mal e da morte, inspirai-nos profundo horror ao pecado, que torna a alma abominável a Deus e escrava do inferno!"
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 4,
+          "text": "Ouvi, ó Predileta de Deus, o grito ardente que se ergue de todos os corações fiéis. Inclinai-vos sobre as nossas chagas dolorosas. Mudai o coração dos maus, enxugai as lágrimas dos aflitos e dos oprimidos, confortai os pobres e os humildes, extingui os ódios, suavizai a dureza dos costumes, guardai nos jovens a flor da pureza, protegei a Santa Igreja, fazei que todos os homens sintam o encanto da bondade cristã. Em vosso nome, que enche os céus de harmonia, sintam-se irmãos todos os homens, e as nações membros duma só família, sobre que brilhe o sol duma paz sincera e universal."
+        },
+        {
+          "type": "numbered_prayer",
+          "num": 5,
+          "text": "Acolhei, ó doce Mãe, as nossas humildes súplicas, e alcançai-nos sobretudo que possamos um dia repetir diante do vosso trono, gozando convosco da felicidade eterna, o hino que se levanta hoje da terra, junto dos vossos altares: Toda formosa sois, ó Maria! Vós sois a glória, a alegria e a honra do nosso povo! Amém."
+        }
+      ],
+      "closing": {
+        "bilingual": false,
+        "versicles_pt": [
+          {
+            "v": "Toda formosa sois, ó Maria.",
+            "r": "Toda formosa sois, ó Maria."
+          },
+          {
+            "v": "E mácula original não há em vós.",
+            "r": "E mácula original não há em vós."
+          },
+          {
+            "v": "Vós sois a glória de Jerusalém.",
+            "r": "Vós a alegria de Israel."
+          },
+          {
+            "v": "Vós a honra do nosso povo.",
+            "r": "Vós a advogada dos pecadores."
+          },
+          {
+            "v": "Ó Maria.",
+            "r": "Ó Maria."
+          },
+          {
+            "v": "Virgem prudentíssima.",
+            "r": "Mãe clementíssima."
+          },
+          {
+            "v": "Rogai por nós.",
+            "r": "Intercedei por nós a Nosso Senhor Jesus Cristo."
+          },
+          {
+            "v": "Vós fostes, ó Virgem, imaculada em vossa Conceição.",
+            "r": "Rogai por nós ao Pai, cujo Filho destes à luz."
+          }
+        ],
+        "oremus_pt": "Ó Deus, que pela Imaculada Conceição da Virgem Maria preparastes a vosso Filho digna morada: nós vos rogamos que, pois a preservastes de toda a mancha, pela previsão da morte de seu mesmo Filho, nos concedais por sua intercessão que também puros cheguemos até vós. Pelo mesmo Cristo Senhor nosso. Amém.",
+        "doxology": "Laus Deo Virginique Matri"
+      }
+    },
+    {
+      "id": "salette",
+      "number": 15,
+      "title": "Novena de Nossa Senhora da Salette",
+      "short_title": "N. Sra. da Salette",
+      "start_label": "Começa no dia 10 de setembro",
+      "feast_label": "Festa: 19 de setembro",
+      "occurrences": [
+        {
+          "type": "fixed",
+          "month": 9,
+          "day": 10,
+          "days": 9,
+          "label": "Novena (10 – 18 set)"
+        }
+      ],
+      "image": "assets/images/novena_15_salette.svg",
+      "artwork_caption": "Cruz Saletina — Reconciliadora dos Pecadores (19 de setembro de 1846)",
+      "subtitle": "Devoção complementar integrada ao aplicativo (Lembrai-vos de Nossa Senhora da Salette).",
+      "source_note": "Devoção complementar (não consta no livreto impresso)",
+      "complementary": true,
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Lembrai-vos, ó Nossa Senhora da Salette, verdadeira Mãe de Dores, das lágrimas que derramastes por nós no Calvário. Lembrai-vos também dos cuidados que, sem cessar, tendes pelo vosso povo, a fim de que, em nome de Cristo, se deixe reconciliar com Deus."
+        },
+        {
+          "type": "paragraph",
+          "text": "E vede se, depois de tanto terdes feito por vossos filhos, podeis agora abandoná-los. Reconfortados por vossa ternura, ó Mãe, eis-nos aqui, suplicantes, apesar de nossa infidelidade e ingratidão. Não rejeiteis nossa oração, ó Virgem Reconciliadora, mas volvei nosso coração para o vosso Filho."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcançai-nos a graça de amar Jesus acima de tudo e de consolar-vos por uma vida de doação, para a glória de Deus e o amor de nossos irmãos. Amém."
+        },
+        {
+          "type": "rubric",
+          "text": "Três vezes a Ave Maria com a jaculatória:"
+        },
+        {
+          "type": "ejaculation",
+          "lines": [
+            "Nossa Senhora da Salette, Reconciliadora dos pecadores,",
+            "Rogai sem cessar por nós que recorremos a vós!"
+          ]
+        }
+      ],
+      "closing": {
+        "bilingual": false,
+        "versicles_pt": [
+          {
+            "v": "Rogai por nós, Nossa Senhora da Salette, Reconciliadora dos pecadores.",
+            "r": "Para que sejamos dignos das promessas de Cristo."
+          }
+        ],
+        "oremus_pt": "Ó Deus de misericórdia, que pela aparição da Santíssima Virgem Maria na montanha da Salette nos chamastes à oração, à penitência e à reconciliação: concedei-nos, por sua materna intercessão, a graça de viver fielmente o Evangelho de vosso Filho e alcançar a paz eterna. Por Cristo, Senhor nosso. Amém."
+      }
+    }
+  ]
+}

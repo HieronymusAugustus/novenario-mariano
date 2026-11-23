@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#14327A">
+  <meta name="description" content="Novenário Mariano — Congregação Mariana Imaculada Conceição e São José (Capela S. José de Chambéry, Curitiba/PR).">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Novenário">
+  <title>Novenário Mariano</title>
+  <link rel="manifest" href="./manifest.json">
+  <link rel="icon" type="image/png" sizes="192x192" href="./assets/icons/icon-192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id="app" class="app-shell">
+    <!-- Top App Bar (Main Views) -->
+    <header id="main-header" class="top-bar">
+      <div class="top-bar-brand">
+        <img src="./assets/icons/icon-192.png" alt="Virgem do Globo" class="brand-emblem" width="36" height="36">
+        <div class="brand-text">
+          <h1>Novenário Mariano</h1>
+          <p>CM Imaculada Conceição e São José</p>
+        </div>
+      </div>
+      <div class="top-bar-actions">
+        <button id="btn-theme-toggle" class="icon-btn" type="button" aria-label="Alternar modo noturno" title="Modo claro / noturno">
+          <span class="icon-sun" aria-hidden="true">☀</span>
+          <span class="icon-moon" aria-hidden="true">☾</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Reader Top Bar (Detail View) -->
+    <header id="reader-header" class="top-bar reader-top-bar hidden">
+      <button id="btn-back" class="icon-btn back-btn" type="button" aria-label="Voltar">
+        <span aria-hidden="true">←</span>
+        <span class="back-label">Voltar</span>
+      </button>
+      <div class="reader-tools">
+        <button id="btn-font-dec" class="tool-chip" type="button" aria-label="Diminuir fonte" title="Diminuir letra">A−</button>
+        <button id="btn-font-inc" class="tool-chip" type="button" aria-label="Aumentar fonte" title="Aumentar letra">A+</button>
+        <button id="btn-reader-theme" class="icon-btn" type="button" aria-label="Alternar modo noturno" title="Modo claro / noturno">
+          <span class="icon-sun" aria-hidden="true">☀</span>
+          <span class="icon-moon" aria-hidden="true">☾</span>
+        </button>
+        <button id="btn-share" class="icon-btn" type="button" aria-label="Compartilhar ou copiar oração" title="Compartilhar oração">
+          <span aria-hidden="true">↗</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main id="main-content" class="main-content">
+      <!-- VIEW 1: NOVENAS (HOME) -->
+      <section id="view-novenas" class="view active" aria-label="Lista de Novenas">
+        <div id="today-banner-slot"></div>
+
+        <div class="search-filter-bar">
+          <label class="sr-only" for="search-input">Buscar novena</label>
+          <input id="search-input" type="search" placeholder="Buscar por título, mês ou invocação..." autocomplete="off">
+        </div>
+
+        <div class="section-heading">
+          <h2>Todas as Novenas</h2>
+          <span id="novena-count" class="count-pill">15</span>
+        </div>
+
+        <div id="novenas-grid" class="novenas-grid"></div>
+      </section>
+
+      <!-- VIEW 2: CALENDÁRIO ANUAL -->
+      <section id="view-calendario" class="view hidden" aria-label="Calendário das Novenas">
+        <div class="calendar-toolbar">
+          <div class="year-switcher">
+            <button id="btn-year-prev" class="icon-btn small" type="button" aria-label="Ano anterior">‹</button>
+            <h2 id="calendar-year-label">2026</h2>
+            <button id="btn-year-next" class="icon-btn small" type="button" aria-label="Próximo ano">›</button>
+          </div>
+          <button id="btn-export-ics-year" class="btn-secondary small" type="button">
+            + Exportar Agenda (.ics)
+          </button>
+        </div>
+        <p id="easter-note" class="calendar-note"></p>
+        <div id="calendar-list" class="calendar-list"></div>
+      </section>
+
+      <!-- VIEW 3: CONGREGAÇÃO / SOBRE -->
+      <section id="view-sobre" class="view hidden" aria-label="Sobre a Congregação e o Aplicativo">
+        <div class="about-card hero-about">
+          <img src="./assets/images/brasao_congregacao.png" alt="Brasão da Congregação Mariana Imaculada Conceição e São José" class="brasao-img">
+          <h2>Novenário Mariano</h2>
+          <p class="about-subtitle">Congregação Mariana<br>Imaculada Conceição e São José</p>
+          <p class="about-chapel">Capela S. José de Chambéry, Curitiba/PR</p>
+          <p class="about-motto">Laus Deo Virginique Matri</p>
+        </div>
+
+        <div id="install-card" class="about-card install-card hidden">
+          <h3>Instalar no celular</h3>
+          <p id="install-card-desc">Adicione o Novenário Mariano à tela inicial para abrir como aplicativo e rezar mesmo sem internet.</p>
+          <button id="btn-install-pwa" class="btn-primary" type="button">Instalar Aplicativo</button>
+        </div>
+
+        <div id="ios-install-card" class="about-card hidden">
+          <h3>Instalar no iPhone / iPad</h3>
+          <p>No Safari, toque no botão <strong>Compartilhar</strong> (quadrado com seta para cima) e escolha <strong>Adicionar à Tela de Início</strong>. O aplicativo funcionará 100% offline.</p>
+        </div>
+
+        <div class="about-card">
+          <h3>Status Offline</h3>
+          <p id="offline-status-text">Verificando armazenamento local...</p>
+          <div class="about-actions-row">
+            <button id="btn-reset-all-progress" class="btn-outline danger" type="button">Zerar progresso das novenas</button>
+          </div>
+        </div>
+
+        <div class="about-card">
+          <h3>Livros originais de referência</h3>
+          <ul class="ref-list" id="references-list"></ul>
+          <h4>Imagem da capa (edição impressa)</h4>
+          <p class="small-text" id="cover-credit-text"></p>
+          <h4>Organização</h4>
+          <p class="small-text" id="organizer-text"></p>
+        </div>
+      </section>
+
+      <!-- VIEW 4: LEITOR DA NOVENA -->
+      <section id="view-reader" class="view hidden" aria-label="Leitura da Novena">
+        <article id="reader-container" class="reader-container"></article>
+      </section>
+    </main>
+
+    <!-- Bottom Navigation -->
+    <nav id="bottom-nav" class="bottom-nav" aria-label="Navegação principal">
+      <button class="nav-item active" data-view="novenas" type="button">
+        <span class="nav-icon" aria-hidden="true">✦</span>
+        <span class="nav-label">Novenas</span>
+      </button>
+      <button class="nav-item" data-view="calendario" type="button">
+        <span class="nav-icon" aria-hidden="true">▦</span>
+        <span class="nav-label">Calendário</span>
+      </button>
+      <button class="nav-item" data-view="sobre" type="button">
+        <span class="nav-icon" aria-hidden="true">❖</span>
+        <span class="nav-label">Congregação</span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- Image Lightbox Modal -->
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true" aria-label="Imagem ampliada">
+    <button id="lightbox-close" class="lightbox-close" type="button" aria-label="Fechar imagem">✕</button>
+    <figure class="lightbox-figure">
+      <img id="lightbox-img" src="" alt="">
+      <figcaption id="lightbox-caption"></figcaption>
+    </figure>
+  </div>
+
+  <!-- Toast feedback -->
+  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
